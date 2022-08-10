@@ -1,6 +1,6 @@
-# Page Title
+# Marvens' first website
 
-A short introduction for the top of your main page
+HI my name is Marvens> I have never done computer science so I hope I can pick it up
 
 
 More content you want on your page
