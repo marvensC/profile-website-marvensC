@@ -1,8 +1,8 @@
 # -- Project information -----------------------------------------------------
 
-project = 'Site Title'
-copyright = '2022, Your name'
-author = 'Your Name'
+project = 'First Website'
+copyright = '2022, Marvens Sainterlien'
+author = 'Marvens Sainterlien'
 
 
 
@@ -49,8 +49,8 @@ with open ('info.yml','r') as f:
 
 
 html_theme_options = {
-  "github_url": "https://github.com/username/",
-  "twitter_url": "https://twitter.com/username",
+  "github_url": "https://github.com/marvensC/",
+  "twitter_url": "https://twitter.com/SMc_X10",
   "search_bar_text": "Search this site...",
   "navbar_end": ["search-field.html"],
   "left_sidebar_end":[ "icon-links.html"]
